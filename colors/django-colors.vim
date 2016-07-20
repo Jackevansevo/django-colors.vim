@@ -107,14 +107,11 @@ hi MoreMsg          guifg=NONE    guibg=NONE gui=NONE
 hi ModeMsg          guifg=NONE    guibg=NONE gui=NONE
 hi WarningMsg       guifg=NONE    guibg=NONE gui=bold
 
-hi TabLine          guifg=NONE    guibg=NONE gui=NONE
-hi TabLineSel       guifg=NONE    guibg=NONE gui=NONE
-hi TabLineFill      guifg=NONE    guibg=NONE gui=NONE
-
 " Tabline
-hi TabLine          guifg=NONE    guibg=#F1FFF7 gui=NONE
-hi TabLineSel       guifg=NONE    guibg=#C9F0DD gui=NONE
-hi TabLineFill      guifg=NONE    guibg=NONE    gui=NONE
+hi TabLine          guifg=NONE    guibg=#C9F0DD gui=NONE
+hi TabLineSel       guifg=NONE    guibg=#f8f8f8 gui=NONE
+hi TabLineFill      guifg=NONE    guibg=#f8f8f8 gui=NONE
+hi Title            guifg=NONE    guibg=#f8f8f8 gui=NONE
 
 hi SignColumn       guifg=NONE    guibg=NONE gui=NONE
 
